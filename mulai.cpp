@@ -5,7 +5,7 @@ int main(){
   cout << "kasjfoasjdfkasj" << endl;
   cout << "awokaowkoakwoakwok" << endl;
   cout << "MAIN" << endl;
-  cout << "COBA DULU DI nyobalagi" << endl;
+  cout << "COBA DULU DI sekalilagi" << endl;
   
   return 0;
 }
